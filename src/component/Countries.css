@@ -1,0 +1,20 @@
+.countries{
+    display:flex;
+    background: #fff;
+    padding: 6px;
+    border-radius: 10px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px ;
+}
+.image img{
+    width: 100px;
+    height: 70px;
+}
+.card{
+    border: 2px solid black;
+    padding: 20px;
+}

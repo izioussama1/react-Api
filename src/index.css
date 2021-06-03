@@ -1,0 +1,122 @@
+@import url(//db.onlinewebfonts.com/c/913bb0ae4129d3bfbea6be79216db722?family=Geometos+Neue);
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+body{
+ 
+  font-family: Geometos Neue;
+
+}
+.header{
+  padding-left: 2%;
+  font-family: 'Yellowtail', cursive;
+}
+.header img{
+  width: 50px;
+  margin-top: -10px;
+}
+.header a{
+  color: rgb(231, 224, 224);
+  margin-left: 10px;
+}
+.padding{
+  margin-left: 85%;
+}
+.margin{
+  margin-left: 43%;
+}
+.divh3{
+  text-align: center;
+  width: auto;
+  min-height: 30vh;
+}
+.H3{
+  text-decoration: none;
+  letter-spacing: 10px;
+  color: white;
+  width: auto;
+  margin-top: 10%;
+  align-items: center;
+}
+.section1{
+  min-height: 100vh;
+  background-image: url(img/bg2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.div2{
+  background-color: rgb(255 255 255 / 39%);
+  min-height: 14vh;
+  width: 55vh;
+  padding: 20px 26px 0px 45px;
+  display: flex;
+  border-radius: 12px;
+}
+.div2 p{
+  font-size: large;
+}
+.div2 p span{
+  font-size: small;
+  color: #050505;
+}
+.location{
+  font-size: 35px;
+  margin-right: 20px;
+  margin-top: 2px;
+}
+.flex{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 90px;
+}
+.section2{
+  min-height: 110vh;
+}
+.divsec2{
+  margin-top: 20px;
+  width: auto;
+  min-height: 30vh;
+  text-align: center;
+}
+.divsec3{
+  margin-top: 60px;
+  width: auto;
+  text-align: center;
+  padding-top: 40px;
+}
+.h6{
+  color: rgb(34, 33, 33);
+  font-size: 13px;
+  letter-spacing: 10px;
+  width: auto;
+}
+.psec2{
+  font-family: -webkit-pictograph bold;
+  color: black;
+  font-size: xxx-large;
+  font-weight: bold;
+}
+.flexx{
+  display: flex;
+  justify-content: space-evenly; 
+  width: auto;
+  height: auto;
+}
+.flediv{
+  width: 40%;
+}
+.flexx img{
+  height: 100%;
+    width: 100%;
+}
+.philo{
+ width: 40%;
+}
+.philo h5, span{
+  font-weight: bold;
+}
+.philo p{
+  font-family: monospace;
+}
+.edit{
+  background-color: rgb(170, 192, 168);
+padding-top: 10px;
+}
